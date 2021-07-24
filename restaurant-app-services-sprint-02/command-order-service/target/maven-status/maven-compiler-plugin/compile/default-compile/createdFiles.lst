@@ -1,0 +1,17 @@
+com\order\mapper\DataMapper.class
+com\order\service\OrderServiceImpl.class
+com\order\bean\OrderBean.class
+com\order\axon\OrderEntityManager.class
+com\order\axon\AxonConfig.class
+com\order\command\PlaceOrderCommand.class
+com\order\model\Order.class
+com\order\rabbitmq\MQSender.class
+com\order\repo\OrderRepo.class
+com\order\service\OrderService.class
+com\order\controller\OrderController.class
+com\order\model\OrderItem.class
+com\order\event\PlaceOrderEvent.class
+com\order\rabbitmq\MQConfig.class
+com\order\aggregate\OrderAggregator.class
+com\order\bean\CustomerOrderResp.class
+com\order\CommandOrderServiceApplication.class
